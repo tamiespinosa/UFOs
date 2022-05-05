@@ -8,11 +8,11 @@
 
 ## <a name="OverviewProject"></a>Overview of Project
 
-In this project we are building a website to show different UFO sightings [[1]](#1) using JavaScript, HTML, CSS and D3. The UFO sighting data [[2]](#2) is collected and displayed using JavaScript code [[3]](#3). The website has dynamic functionality for filtering the data displayed. D3 is ustilized to recognize the inputs ("changes") to the website and filtering the information accordingly. 
+In this project we are building a website to show different UFO sightings [[1]](#1) using JavaScript, HTML, CSS and D3. The UFO sighting data [[2]](#2) is collected and filtered JavaScript code [[3]](#3) and displayed using HTML [[1]](#1).Some of the website's csutomization was done in the HTML file and some was done in the CSS file [[4]](#4). The website has dynamic functionality for filtering the data displayed. D3 is ustilized to recognize the user inputs ("changes") to the website and filter the information accordingly. 
 
 ## <a name="Results"></a>Results
 
-
+To build this website, 
 
 
 
