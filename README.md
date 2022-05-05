@@ -35,6 +35,4 @@
 
 <a name="4">[4]</a> [CSS Styling File](https://github.com/tamiespinosa/UFOs/blob/8da2bf0f54dda1b2289a4839f3e216d0bd6394ae/static/css/style.css)
 
-[5] https://inloop.github.io/sqlite-viewer/
-
-[4] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[5] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
