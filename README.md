@@ -2,18 +2,13 @@
 
 ## Table of Contents
 - [Overview of Project](#OverviewProject)
-  * [Purpose](#purpose)
 - [Results](#Results)
-
 - [Summary](#Summary)
 - [Resources](#Resources)
 
 ## <a name="OverviewProject"></a>Overview of Project
 
- [[1]](#1) [[2]](#2).
-
-### <a name="purpose"></a>Purpose
-
+In this project we are building a website to show different UFO sightings [[1]](#1) using JavaScript, HTML, CSS and D3. The UFO sighting data [[2]](#2) is collected and displayed using JavaScript code [[3]](#3). The website has dynamic functionality for filtering the data displayed. D3 is ustilized to recognize the inputs ("changes") to the website and filtering the information accordingly. 
 
 ## <a name="Results"></a>Results
 
