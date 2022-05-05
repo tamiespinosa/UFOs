@@ -18,7 +18,7 @@ In this project we are building a website to show different UFO sightings [[1]](
 
 ## <a name="Summary"></a> Summary
 
-
+We were succesfully able to build a website that presents the UFO sighting data and has five filtering categories. Filters can be applied to multiple catergories simultaneously. The drawback of the website is that it accepts any text to filter the data, without considering potential capitalization issues and mispellings. Ideally, some of these filters could be drop down lists to limit the user input to only filters that exhist.  
 
 ## <a name="Resources"></a>Resources
 
