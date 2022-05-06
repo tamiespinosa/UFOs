@@ -12,9 +12,11 @@ In this project we are building a website to show different UFO sightings [[1]](
 
 ## <a name="Results"></a>Results
 
-To build this website, 
+<p align="center"> <img src="static/images/website-layout.png" width ="70%" alt="website-layout"> </p>
+<p align="center"> Figure 1: Website Layout</p> 
 
-
+<p align="center"> <img src="static/images/filtered-data.png" width ="70%" alt="filtered-data"> </p>
+<p align="center"> Figure 2: Filtered Data</p> 
 
 ## <a name="Summary"></a> Summary
 
