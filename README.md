@@ -16,6 +16,8 @@ In this project we are building a website to show different UFO sightings [[1]](
 
 ### <a name="Website"></a> Website Functionality
 
+The website created automatically loads all the data into its UFO Sightings table. It is then able to filter data based on user input, as seen in Figure 1 and 2. Multiple categories can be filtered at the same time, as seen in Figure 2.  
+
 <p align="center"> <img src="static/images/website-layout.png" width ="70%" alt="website-layout"> </p>
 <p align="center"> Figure 1: Website Layout</p> 
 
